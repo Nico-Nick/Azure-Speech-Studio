@@ -69,7 +69,7 @@ A Azure implementa **filtros automáticos** para moderação de conteúdo por pa
 ## 📋 Exemplos de Prompts Usados
 
 ### 📄 Word
-```text
+`text`
 Reescreva este parágrafo com um tom mais formal e acadêmico.
 ----
 
